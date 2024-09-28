@@ -6,7 +6,7 @@ namespace CalculatorApi.Controllers;
 [Route("[controller]/[action]")]
 public class CalculatorController : ControllerBase
 {
-    [Route("{x}/{y}")]
+    [HttpGet("{x}/{y}")]
     public decimal Add(decimal x, decimal y)
     {
         return x+y;
