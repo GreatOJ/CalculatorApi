@@ -33,3 +33,4 @@ C:\Users\IBE UCHECHI GREAT\CalculatorApi\obj\Debug\net8.0\refint\CalculatorApi.d
 C:\Users\IBE UCHECHI GREAT\CalculatorApi\obj\Debug\net8.0\CalculatorApi.pdb
 C:\Users\IBE UCHECHI GREAT\CalculatorApi\obj\Debug\net8.0\CalculatorApi.genruntimeconfig.cache
 C:\Users\IBE UCHECHI GREAT\CalculatorApi\obj\Debug\net8.0\ref\CalculatorApi.dll
+C:\Users\IBE UCHECHI GREAT\CalculatorApi\obj\Debug\net8.0\CalculatorApi.sourcelink.json
